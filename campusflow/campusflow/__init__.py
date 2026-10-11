@@ -1,0 +1,1 @@
+"""CampusFlow ticket management package."""
